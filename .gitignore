@@ -35,3 +35,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+screens/HomeScreen_question.js
+components/ProductFinderModal.js
